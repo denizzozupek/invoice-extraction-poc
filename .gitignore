@@ -1,0 +1,7 @@
+__pycache__/
+pytest_cache/
+.env
+*.log
+app.log
+api.log
+temp_*
